@@ -12,7 +12,7 @@ B -&#x20;
 
 BREAK LEVEL: This is the spot that breaks a move, it is often the wick on a 2 or more candle valley that acts a a ladder point.
 
-BFE: Butterfly Effect Course
+**BFE**: Butterfly Effect Course
 
 
 
