@@ -7,3 +7,7 @@
 ## 📖 Notes
 
 * [Notes from @daynemay](notes/notes-from-daynemay.md)
+
+***
+
+* [Notes from @Raj](notes-from-raj.md)
