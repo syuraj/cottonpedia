@@ -1,4 +1,4 @@
-# Terminologies
+# 🔤 Terminologies
 
 A -
 
@@ -10,7 +10,7 @@ B -&#x20;
 
 **BASE**: This describes the starting point of any given area as to where a range describes the entirety from top to bottom the term Base describes the point in which it starts.
 
-BREAK LEVEL: This is the spot that breaks a move, it is often the wick on a 2 or more candle valley that acts a a ladder point.
+**BREAK LEVEL**: This is the spot that breaks a move, it is often the wick on a 2 or more candle valley that acts a a ladder point.
 
 **BFE**: Butterfly Effect Course
 
@@ -20,7 +20,7 @@ C -&#x20;
 
 **CA**: Comparative Analysis; c0tt0nc4ndyta created this term and engineered the science behind it. The higher form of TA(Technical Analysis) where events create different future outcomes based on in the moment analysis.
 
-**CATHCING A FALLING KNIFE**: This is buying or selling at the final spot before a move reverses.
+**CATCHING A FALLING KNIFE**: This is buying or selling at the final spot before a move reverses.
 
 **COMBINATION LEVEL**: When multiple levels get hit at once.
 
@@ -48,7 +48,7 @@ F -&#x20;
 
 **FoTR**: The Future Of Daytrading Remastered
 
-**FRAGILITY**: Often confused with polarity this is known as how many pieces of a move are inside a range, and which is that weakest piece. AA range with 10 levels inside of it will have higher amount of fragility the closer they are and lower amounts of fragility the deeper the move goes into the range.
+**FRAGILITY**: Often confused with polarity this is known as how many pieces of a move are inside a range, and which is that weakest piece. A range with 10 levels inside of it will have higher amount of fragility the closer they are and lower amounts of fragility the deeper the move goes into the range.
 
 
 
