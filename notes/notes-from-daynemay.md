@@ -1,6 +1,12 @@
 # Notes from @daynemay
 
-TA Notes
+Mentorship Files
+
+[https://docs.google.com/document/d/16Rje4OaF27h1LwL5c8Q9iBwB\_R22zpWvZj9\_SSBVE0w/edit](https://docs.google.com/document/d/16Rje4OaF27h1LwL5c8Q9iBwB\_R22zpWvZj9\_SSBVE0w/edit)
+
+
+
+TA Notes (Level 1 and 2)
 
 [https://docs.google.com/document/d/1Md2Xpsv6gkUfbm6hC9WP0t8vdF1Za-Ye6nrSSEJKVpg/edit](https://docs.google.com/document/d/1Md2Xpsv6gkUfbm6hC9WP0t8vdF1Za-Ye6nrSSEJKVpg/edit)
 
@@ -12,7 +18,7 @@ Level 3 / Strats
 
 
 
-Procedural Analysis
+Procedural Analysis (Level 4)
 
 [https://docs.google.com/document/d/1\_8859NEb3Z2a-HgmF-oby6lSC-olYfK3ypYnzeUY-yY/edit](https://docs.google.com/document/d/1\_8859NEb3Z2a-HgmF-oby6lSC-olYfK3ypYnzeUY-yY/edit)
 
@@ -24,13 +30,13 @@ Mental Analysis Evolved
 
 
 
-BFE 1
+BFE 1 (Level 5)
 
 [https://docs.google.com/document/d/1gFlemoGb19CEu4AU2gQMm6eGPutb6onaQDqfaFjHnRo/edit#heading=h.ir2ilu96yeiq](https://docs.google.com/document/d/1gFlemoGb19CEu4AU2gQMm6eGPutb6onaQDqfaFjHnRo/edit#heading=h.ir2ilu96yeiq)
 
 
 
-BFE 2
+BFE 2 (Level 6)
 
 [https://docs.google.com/document/d/1IWCNEdLuYXs0mHnh27ALiU5XN026nZwoaRp3f8JOAy8/edit](https://docs.google.com/document/d/1IWCNEdLuYXs0mHnh27ALiU5XN026nZwoaRp3f8JOAy8/edit)
 
