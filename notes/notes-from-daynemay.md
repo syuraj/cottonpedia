@@ -6,7 +6,7 @@ TA Notes
 
 
 
-FOT V2 / Strats
+Level 3 / Strats
 
 [https://docs.google.com/document/d/1FhCVw0n\_x0CglIPeIXAPD78eUgJXehEnitKBKNgU8DQ/edit](https://docs.google.com/document/d/1FhCVw0n\_x0CglIPeIXAPD78eUgJXehEnitKBKNgU8DQ/edit)
 
@@ -18,7 +18,9 @@ Procedural Analysis
 
 
 
-BFE 1[https://docs.google.com/document/d/1gFlemoGb19CEu4AU2gQMm6eGPutb6onaQDqfaFjHnRo/edit#heading=h.ir2ilu96yeiq](https://docs.google.com/document/d/1gFlemoGb19CEu4AU2gQMm6eGPutb6onaQDqfaFjHnRo/edit#heading=h.ir2ilu96yeiq)
+BFE 1
+
+[https://docs.google.com/document/d/1gFlemoGb19CEu4AU2gQMm6eGPutb6onaQDqfaFjHnRo/edit#heading=h.ir2ilu96yeiq](https://docs.google.com/document/d/1gFlemoGb19CEu4AU2gQMm6eGPutb6onaQDqfaFjHnRo/edit#heading=h.ir2ilu96yeiq)
 
 
 
