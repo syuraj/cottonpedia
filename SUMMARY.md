@@ -2,7 +2,7 @@
 
 * [🔤 Terminologies](README.md)
 * [🍭 Cotton Videos](cotton-videos.md)
-* [🎵 Lessons in Spotify](https://open.spotify.com/show/1IK6Iw1EqLCUaLZ4CqewBD?si=d20b6e87d6c2421c)
+* [🎵 Lessons in Spotify](lessons-in-spotify.md)
 
 ## 📖 Notes
 
