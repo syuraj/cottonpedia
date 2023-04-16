@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Terminologies](README.md)
+* [🔤 Terminologies](README.md)
 * [🍭 Cotton Videos](cotton-videos.md)
 
 ## 📖 Notes
