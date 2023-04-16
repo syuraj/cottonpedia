@@ -6,6 +6,12 @@ Mentorship Files
 
 
 
+Risk Guide
+
+[https://docs.google.com/document/d/1sJ8j93YYdIUyxa5yXOLYrgiad5AHqFE5zGFdXRK\_xB8/edit](https://docs.google.com/document/d/1sJ8j93YYdIUyxa5yXOLYrgiad5AHqFE5zGFdXRK\_xB8/edit)
+
+
+
 TA Notes (Level 1 and 2)
 
 [https://docs.google.com/document/d/1Md2Xpsv6gkUfbm6hC9WP0t8vdF1Za-Ye6nrSSEJKVpg/edit](https://docs.google.com/document/d/1Md2Xpsv6gkUfbm6hC9WP0t8vdF1Za-Ye6nrSSEJKVpg/edit)
