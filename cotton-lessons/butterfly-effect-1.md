@@ -1,10 +1,6 @@
-# 🦋 Butterfly Effect
+# 🦋 Butterfly Effect 1
 
-{% embed url="https://www.youtube.com/watch?v=ckSlthUg4lo&list=PLBcrRkQDkiji9W3JVrn-ifhSVlaGI0YEa" %}
-
-{% embed url="https://www.youtube.com/watch?v=0yx5Ssk8ijI&list=PLBcrRkQDkijitJFh2WZigIdV_FHoZpyAE" %}
-
-
+{% embed url="https://www.youtube.com/playlist?list=PLBcrRkQDkiji9W3JVrn-ifhSVlaGI0YEa" %}
 
 #### Strong hold level
 

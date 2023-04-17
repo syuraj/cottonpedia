@@ -11,6 +11,8 @@
 * [♻ Swing Trading](cotton-lessons/swing-trading.md)
 * [🤑 Scalp Trading](cotton-lessons/scalp-trading.md)
 * [📘 Blueprint Remastered Summary (Level 4)](cotton-lessons/blueprint-remastered-summary-level-4.md)
+* [🦋 Butterfly Effect 1](cotton-lessons/butterfly-effect-1.md)
+* [🦋 Butterfly Effect 2](cotton-lessons/butterfly-effect-2.md)
 
 ## 📖 Notes
 
@@ -19,4 +21,3 @@
 ***
 
 * [Notes from @Raj](notes-from-raj.md)
-* [🦋 Butterfly Effect](butterfly-effect.md)
