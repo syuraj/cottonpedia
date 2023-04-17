@@ -1,10 +1,10 @@
-# 🦋 Butterfly Effect 1
+# ➖ Strong & Greedy Holds
+
+Youtube
 
 {% embed url="https://www.youtube.com/playlist?list=PLBcrRkQDkiji9W3JVrn-ifhSVlaGI0YEa" %}
 
-#### Strong & Greedy hold levels
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### Strong hold level
 
@@ -28,4 +28,8 @@ If strong level stops holding, then it reaches greedy level which tries to hold 
 
 Position trades should be from greedy hold levels as they are steady and might hold.
 
-\
+Strong level tends to create trend while Greedy level tends to create a ladder to trend.\
+
+
+Break levels have different type of reaction
+
