@@ -1,4 +1,4 @@
-# Position Trading
+# 💹 Position Trading
 
 {% embed url="https://www.youtube.com/watch?v=m_cClGuXFZo&list=PLBcrRkQDkijj74vkHOYUXGVtFuOQ2DncR&index=20" %}
 
