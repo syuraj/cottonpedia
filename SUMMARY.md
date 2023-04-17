@@ -4,7 +4,7 @@
 * [🍭 Cotton Videos](cotton-videos.md)
 * [🎵 Lessons in Spotify](lessons-in-spotify.md)
 
-## 📗 Cotton Lessons
+## 📚 Cotton Lessons
 
 * [💰 Bankroll Management](cotton-lessons/bankroll-management.md)
 * [💹 Position Trading](cotton-lessons/position-trading.md)
