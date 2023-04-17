@@ -7,6 +7,7 @@
 ## 📗 Cotton Lessons
 
 * [Bankroll Management](cotton-lessons/bankroll-management.md)
+* [Position Trading](cotton-lessons/position-trading.md)
 
 ## 📖 Notes
 
