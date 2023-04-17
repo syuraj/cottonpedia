@@ -18,4 +18,12 @@ A strong level is a backside hold and a greedy level is a frontside hold&#x20;
 
 If the greedy hold cant hold the move its gonna break it down, it becomes the greediest point in the move to try and hold the move up
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+If strong level **stops having** strong reaction then the level is getting weaker.
+
+If strong level stops holding, then it reaches greedy level which tries to hold and ultimately breaks.
+
+Position trades should be from greedy hold levels as they are steady and might hold.
+
 \
