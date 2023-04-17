@@ -8,6 +8,7 @@
 
 * [Bankroll Management](cotton-lessons/bankroll-management.md)
 * [Position Trading](cotton-lessons/position-trading.md)
+* [♻ Swing Trading](cotton-lessons/swing-trading.md)
 
 ## 📖 Notes
 
