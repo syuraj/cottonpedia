@@ -6,6 +6,8 @@ Youtube
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 #### Strong hold level
 
 Strong hold level is going to have a strong reaction, its gonna come down touch the level and have a strong instant reaction afterwards (knife catch scenario,big bounce and/or quick move)
