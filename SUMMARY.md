@@ -8,6 +8,7 @@
 
 * [🤖 The Future of Day Trading (Level 3)](cotton-lessons/the-future-of-day-trading-level-3/README.md)
   * [📉 Trend Architecture](cotton-lessons/the-future-of-day-trading-level-3/trend-architecture.md)
+  * [🔗 Hold Levels](cotton-lessons/the-future-of-day-trading-level-3/hold-levels.md)
 * [📘 Blueprint Remastered (Level 4)](cotton-lessons/blueprint-remastered-level-4/README.md)
   * [💰 Bankroll Management](cotton-lessons/bankroll-management.md)
   * [🧘♂ Position Trading](cotton-lessons/position-trading.md)
