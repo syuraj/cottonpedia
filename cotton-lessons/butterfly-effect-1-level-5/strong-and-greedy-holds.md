@@ -1,4 +1,4 @@
-# ➖ Strong & Greedy Holds
+# 🔗 Strong & Greedy Holds
 
 Youtube
 
