@@ -6,7 +6,7 @@
 
 Data points are the information that extrapolate off the pieces of the move
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Showing multple data points</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Showing multiple data points</p></figcaption></figure>
 
 
 
