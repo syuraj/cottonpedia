@@ -21,8 +21,8 @@
   * [🤑 Scalp Trading](cotton-lessons/scalp-trading.md)
 * [🦋 Butterfly Effect 1 (Level 5)](cotton-lessons/butterfly-effect-1/README.md)
   * [🔗 Strong & Greedy Holds](cotton-lessons/butterfly-effect-1/strong-and-greedy-holds.md)
-  * [🛫 Backside Holds](cotton-lessons/butterfly-effect-1-level-5/backside-holds.md)
   * [🗃 Data Points](cotton-lessons/butterfly-effect-1-level-5/data-points.md)
+  * [🔀 Frontside & Backside Holds](cotton-lessons/butterfly-effect-1-level-5/frontside-and-backside-holds.md)
 * [🦋 Butterfly Effect 2 (Level 6)](cotton-lessons/butterfly-effect-2.md)
 
 ## 📖 Notes

@@ -18,13 +18,21 @@ Untested back side is even more powerful.
 
 (BS) Strength will give big money instantly however FS (Greed) will give most money if it holds
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Weak reaction from a level from the Front side of a leg. example below.&#x20;
 
-They are best to get greeder prices if it holds.
+They are the best to get greeder prices if it holds.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Example 2
+
+If you try to buy every trend break, you will go broke
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Trends are there to get rejected. 19 out of 20 times.
 
 ## Videos
 

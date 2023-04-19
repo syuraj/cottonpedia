@@ -1,6 +1,6 @@
 # 💔 Fragility
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 * More fragile, more faster it moves
 * We have to balance between WTL (waiting too long) vs Risk
