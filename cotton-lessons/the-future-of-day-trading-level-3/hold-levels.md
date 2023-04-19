@@ -1,8 +1,14 @@
 # 🔗 Hold Levels
 
-#### Back side and Front side hold level
+Hold can be body or wick of a candle (distribution at bottom side and accumulation at top side)
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+![Untitled](<../../.gitbook/assets/Untitled (3).png>)
 
-Back side hold levels are also referred as Strong hold levels since they often have strong (knee jerk) reaction as shown in diagram above.
+Back side and Front side hold level
+
+![Untitled](<../../.gitbook/assets/Untitled (4) (1).png>)
+
+Back side broken first
+
+if it touches break level, a small push can create pump/dump
 

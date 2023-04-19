@@ -31,5 +31,7 @@ Position trades should be from greedy hold levels as they are steady and might h
 Strong level tends to create trend while Greedy level tends to create a ladder to trend.\
 
 
-Break levels have different type of reaction
+#### One more example with multiple Greedy levels and One strong Level
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

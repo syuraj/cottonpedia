@@ -14,7 +14,6 @@
   * [🧘♂ Position Trading](cotton-lessons/position-trading.md)
   * [♻ Swing Trading](cotton-lessons/swing-trading.md)
   * [🤑 Scalp Trading](cotton-lessons/scalp-trading.md)
-* [📘 Blueprint Remastered Summary (Level 4)](cotton-lessons/blueprint-remastered-summary-level-4.md)
 * [🦋 Butterfly Effect 1 (Level 5)](cotton-lessons/butterfly-effect-1/README.md)
   * [🔗 Strong & Greedy Holds](cotton-lessons/butterfly-effect-1/strong-and-greedy-holds.md)
   * [🗃 Data Points](cotton-lessons/butterfly-effect-1-level-5/data-points.md)
