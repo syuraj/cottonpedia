@@ -8,9 +8,12 @@
 
 * [🤖 The Future of Day Trading (Level 3)](cotton-lessons/the-future-of-day-trading-level-3/README.md)
   * [📉 Trend Architecture](cotton-lessons/the-future-of-day-trading-level-3/trend-architecture.md)
-  * [🔗 Hold Levels](cotton-lessons/the-future-of-day-trading-level-3/hold-levels.md)
   * [❎ Hard Close](cotton-lessons/the-future-of-day-trading-level-3/hard-close.md)
   * [🔻 Valleys and Peaks](cotton-lessons/the-future-of-day-trading-level-3/valleys-and-peaks.md)
+  * [🔗 Hold Levels](cotton-lessons/the-future-of-day-trading-level-3/hold-levels.md)
+  * [⭕ Origin Levels](cotton-lessons/the-future-of-day-trading-level-3/origin-levels.md)
+  * [🟩 Pandora's Box](cotton-lessons/the-future-of-day-trading-level-3/pandoras-box.md)
+  * [💔 Fragility](cotton-lessons/the-future-of-day-trading-level-3/fragility.md)
 * [📘 Blueprint Remastered (Level 4)](cotton-lessons/blueprint-remastered-level-4/README.md)
   * [💰 Bankroll Management](cotton-lessons/bankroll-management.md)
   * [🧘♂ Position Trading](cotton-lessons/position-trading.md)
@@ -18,6 +21,7 @@
   * [🤑 Scalp Trading](cotton-lessons/scalp-trading.md)
 * [🦋 Butterfly Effect 1 (Level 5)](cotton-lessons/butterfly-effect-1/README.md)
   * [🔗 Strong & Greedy Holds](cotton-lessons/butterfly-effect-1/strong-and-greedy-holds.md)
+  * [🛫 Backside Holds](cotton-lessons/butterfly-effect-1-level-5/backside-holds.md)
   * [🗃 Data Points](cotton-lessons/butterfly-effect-1-level-5/data-points.md)
 * [🦋 Butterfly Effect 2 (Level 6)](cotton-lessons/butterfly-effect-2.md)
 

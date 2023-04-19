@@ -1,8 +1,6 @@
 # 🔗 Strong & Greedy Holds
 
-{% embed url="https://www.youtube.com/playlist?list=PLBcrRkQDkiji9W3JVrn-ifhSVlaGI0YEa" %}
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -33,5 +31,8 @@ Strong level tends to create trend while Greedy level tends to create a ladder t
 
 #### One more example with multiple Greedy levels and One strong Level
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
+
+
+{% embed url="https://www.youtube.com/playlist?list=PLBcrRkQDkiji9W3JVrn-ifhSVlaGI0YEa" %}
