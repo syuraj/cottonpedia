@@ -14,7 +14,7 @@ FS is to hold the move and catch greedy point
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
+Untested levels are more useful
 
 ## Videos
 

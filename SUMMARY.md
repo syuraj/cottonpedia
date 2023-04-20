@@ -6,6 +6,9 @@
 
 ## 📚 Cotton Lessons
 
+* [👼 Beginner's Course (Level 1)](cotton-lessons/beginners-course-level-1/README.md)
+  * [♻ Level Adaptation](cotton-lessons/beginners-course-level-1/level-adaptation.md)
+  * [🔻 Fractal Information](cotton-lessons/beginners-course-level-1/fractal-information.md)
 * [🤖 The Future of Day Trading (Level 3)](cotton-lessons/the-future-of-day-trading-level-3/README.md)
   * [📉 Trend Architecture](cotton-lessons/the-future-of-day-trading-level-3/trend-architecture.md)
   * [❎ Hard Close](cotton-lessons/the-future-of-day-trading-level-3/hard-close.md)
@@ -15,9 +18,10 @@
   * [🟩 Pandora's Box](cotton-lessons/the-future-of-day-trading-level-3/pandoras-box.md)
   * [💔 Fragility](cotton-lessons/the-future-of-day-trading-level-3/fragility.md)
 * [📘 Blueprint Remastered (Level 4)](cotton-lessons/blueprint-remastered-level-4/README.md)
+  * [🏪 Defining a Market](cotton-lessons/blueprint-remastered-level-4/defining-a-market.md)
   * [💰 Bankroll Management](cotton-lessons/bankroll-management.md)
-  * [🧘♂ Position Trading](cotton-lessons/position-trading.md)
   * [♻ Swing Trading](cotton-lessons/swing-trading.md)
+  * [🧘♂ Position Trading](cotton-lessons/position-trading.md)
   * [🤑 Scalp Trading](cotton-lessons/scalp-trading.md)
 * [🦋 Butterfly Effect 1 (Level 5)](cotton-lessons/butterfly-effect-1/README.md)
   * [🔗 Strong & Greedy Holds](cotton-lessons/butterfly-effect-1/strong-and-greedy-holds.md)
@@ -28,7 +32,3 @@
 ## 📖 Notes
 
 * [Notes from @daynemay](notes/notes-from-daynemay.md)
-
-***
-
-* [Notes from @Raj](notes-from-raj.md)
