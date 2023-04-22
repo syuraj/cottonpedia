@@ -18,7 +18,7 @@ Untested back side is even more powerful.
 
 (BS) Strength will give big money instantly however FS (Greed) will give most money if it holds
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Weak reaction from a level from the Front side of a leg. example below.&#x20;
 
