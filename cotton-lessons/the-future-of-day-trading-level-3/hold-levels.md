@@ -14,11 +14,9 @@ if it touches break level, a small push can create pump/dump
 
 BS generates the strongest reaction.
 
-
-
 Hold level will protect from breaking a trend but not forever.
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-
+Hold level in Higher timeframe is more important than the one in lower timeframe and if price rejects htf hold, then ltf hold won't be able to hold&#x20;
 
