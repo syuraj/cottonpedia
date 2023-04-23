@@ -10,7 +10,7 @@ This is all about analyzing your past trades and understanding what you did righ
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-### Rejection of a BS Hold level
+## Rejection of a BS Hold level
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
