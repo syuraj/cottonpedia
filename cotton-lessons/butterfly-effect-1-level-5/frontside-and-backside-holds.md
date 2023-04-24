@@ -1,6 +1,14 @@
 # 🔀 Frontside & Backside Holds
 
+## Backside Hold
+
 Backside hold level is in the back side of the move and has a strong reaction (knife catch)
+
+Backside hold is drawn from the top of the wick of 2 distribution candles
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+## Frontside Hold
 
 Frontside hold level is in the front side of the move and has a weak reaction (greedy level).
 

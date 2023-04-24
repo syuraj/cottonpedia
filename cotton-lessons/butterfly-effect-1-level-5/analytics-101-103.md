@@ -12,7 +12,7 @@ This is all about analyzing your past trades and understanding what you did righ
 
 ## Rejection of a BS Hold level
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Example of a long entry
 
