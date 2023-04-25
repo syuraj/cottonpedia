@@ -16,7 +16,7 @@ Big players always have passive contracts open
 
 The big players/best scalpers rebuy levels they TP on, there's always a contract open
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A lack of longs to pull a move up after hitting a level means those longs will all start to exit which is what will break a move down cuz people start to panic and leave and then active shorts will happen
 

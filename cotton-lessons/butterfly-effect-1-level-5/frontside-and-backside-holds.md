@@ -4,9 +4,13 @@
 
 Backside hold level is in the back side of the move and has a strong reaction (knife catch)
 
-Backside hold is drawn from the top of the wick of 2 distribution candles
+Backside hold is drawn from the top of the wick of 2 distribution or accumulation candles
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+### BS Example in uptrend & downtrend
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Frontside Hold
 
