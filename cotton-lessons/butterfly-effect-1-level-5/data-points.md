@@ -1,6 +1,6 @@
 # 🗃 Data Points
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Showing multiple data points</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption><p>Showing multiple data points</p></figcaption></figure>
 
 Data points are the information that extrapolate off the pieces of the move
 

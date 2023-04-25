@@ -1,5 +1,15 @@
 # ↔ Ranges
 
+The greedier the level is, you want to front run by a bit.
+
+Trends attack range, when range fails to break there is a level that gets hit
+
+Range finding is all about finding correct levels.
+
+## Range covers a leg of the move
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 
 
 ## Youtube
