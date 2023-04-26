@@ -12,7 +12,7 @@
 * [🤖 The Future of Day Trading (Level 3)](cotton-lessons/the-future-of-day-trading-level-3/README.md)
   * [📉 Trend Architecture](cotton-lessons/the-future-of-day-trading-level-3/trend-architecture.md)
   * [❎ Hard Close](cotton-lessons/the-future-of-day-trading-level-3/hard-close.md)
-  * [🔻 Valleys and Peaks](cotton-lessons/the-future-of-day-trading-level-3/valleys-and-peaks.md)
+  * [⚡ Break Levels](cotton-lessons/the-future-of-day-trading-level-3/break-levels.md)
   * [🔗 Hold Levels](cotton-lessons/the-future-of-day-trading-level-3/hold-levels.md)
   * [⭕ Origin Levels](cotton-lessons/the-future-of-day-trading-level-3/origin-levels.md)
   * [🟩 Pandora's Box](cotton-lessons/the-future-of-day-trading-level-3/pandoras-box.md)
