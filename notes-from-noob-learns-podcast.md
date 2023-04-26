@@ -2,7 +2,7 @@
 
 ### Each hold level should've a corresponding break level.
 
-<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Marking correct break levels
 
@@ -22,7 +22,7 @@ So, break level at the bottom is the correct one.
 
 ### Buy at Hold Level or Trend line
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
