@@ -27,3 +27,7 @@
 ## Mentorship Files
 
 {% embed url="https://www.youtube.com/playlist?list=PLBcrRkQDkijjNI4Crr2u-nYn8iN3d0WdH" %}
+
+## Chart Raider Videos
+
+{% embed url="https://www.youtube.com/watch?v=sBixustqsxo&list=PLBcrRkQDkiji0P4yAquvco15oBchELCa3" %}
