@@ -18,7 +18,7 @@ So, break level at the bottom is the correct one.
 
 ### Deleting Break Levels
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Buy at Hold Level or Trend line
 

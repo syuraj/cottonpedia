@@ -10,7 +10,7 @@ FS, BS gives entries and ladder point gives maximum reach
 
 Ladder gives max range of a move.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Hold levels get broken when trend is broken
 
