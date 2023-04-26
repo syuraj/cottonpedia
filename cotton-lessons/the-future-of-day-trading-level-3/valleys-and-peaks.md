@@ -25,3 +25,11 @@ Break level becomes Origin level on first touch and creates a moment of polarity
 On hard close, it creates break out.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Youtube
+
+{% embed url="https://www.youtube.com/watch?v=CJMdclvLuF0&list=PLBcrRkQDkiji-LeqdrcvCpwXEptLi1Ts2&index=4" %}
+
+{% embed url="https://www.youtube.com/watch?v=ZZ2xvXPpsiA&list=PLBcrRkQDkiji-LeqdrcvCpwXEptLi1Ts2&index=6" %}
