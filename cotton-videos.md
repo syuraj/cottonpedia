@@ -30,4 +30,4 @@
 
 ## Chart Raider Videos
 
-{% embed url="https://www.youtube.com/watch?v=sBixustqsxo&list=PLBcrRkQDkiji0P4yAquvco15oBchELCa3" %}
+{% embed url="https://www.youtube.com/playlist?list=PLBcrRkQDkiji0P4yAquvco15oBchELCa3" %}

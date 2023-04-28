@@ -14,7 +14,7 @@ So, break level at the bottom is the correct one.
 
 ### Adapting Trend
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Deleting Break Levels
 

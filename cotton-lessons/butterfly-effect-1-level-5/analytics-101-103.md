@@ -26,7 +26,7 @@ Hold level however greedy creates a trend
 
 ## Example of a trend break
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
