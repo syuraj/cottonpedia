@@ -8,7 +8,7 @@ When one side of range is tested, the other side is also likely to be tested
 
 There can be test of this type only 2 times.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 When FS of a range is broken, you are also likely breaking BS of bigger range
 

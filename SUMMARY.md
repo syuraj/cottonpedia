@@ -33,6 +33,7 @@
   * [📉 Laddering](cotton-lessons/butterfly-effect-1-level-5/laddering.md)
   * [⏹ Final Hold & Low](cotton-lessons/butterfly-effect-1-level-5/final-hold-and-low.md)
   * [↔ Range Testing](cotton-lessons/butterfly-effect-1-level-5/range-testing.md)
+  * [↕ Polarity Flow](cotton-lessons/butterfly-effect-1-level-5/polarity-flow.md)
 * [🦋 Butterfly Effect 2 (Level 6)](cotton-lessons/butterfly-effect-2.md)
 
 ## 📖 Notes
