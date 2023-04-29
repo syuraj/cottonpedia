@@ -14,7 +14,7 @@ Could be another Hold level or breaking a trend
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Trigger points at Trend break</p></figcaption></figure>
 
-
+![](<../../.gitbook/assets/image (15).png>)![](<../../.gitbook/assets/image (1).png>)
 
 ## Youtube
 
