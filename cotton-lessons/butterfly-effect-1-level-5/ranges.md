@@ -12,7 +12,7 @@ Range finding is all about finding correct levels.
 
 ## Example of Ranges
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 
