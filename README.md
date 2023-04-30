@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # 🙏 Introduction
 
 A collection of notes on CottonScience from Raj#3333 and daynemay#1238.
