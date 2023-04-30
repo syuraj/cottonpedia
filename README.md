@@ -10,6 +10,7 @@ Discord: [https://discord.gg/5zZ8khmADx](https://discord.gg/5zZ8khmADx)
 
 **Disclaimer:**
 
-The notes provided on this website are intended to be informative, but we cannot guarantee their accuracy or completeness. However, we are continuously updating the notes as we progress.
+The notes provided on this website are intended to be informative only and we cannot guarantee their accuracy or completeness. 
+However, we are continuously updating the notes as we progress.
 
 Please don't hesitate to contact us on discord if you come across any discrepancies
