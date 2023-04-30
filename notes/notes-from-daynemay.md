@@ -1,11 +1,5 @@
 # Notes from @daynemay
 
-Mentorship Files
-
-[https://docs.google.com/document/d/16Rje4OaF27h1LwL5c8Q9iBwB\_R22zpWvZj9\_SSBVE0w/edit](https://docs.google.com/document/d/16Rje4OaF27h1LwL5c8Q9iBwB\_R22zpWvZj9\_SSBVE0w/edit)
-
-
-
 Risk Guide
 
 [https://docs.google.com/document/d/1sJ8j93YYdIUyxa5yXOLYrgiad5AHqFE5zGFdXRK\_xB8/edit](https://docs.google.com/document/d/1sJ8j93YYdIUyxa5yXOLYrgiad5AHqFE5zGFdXRK\_xB8/edit)
@@ -45,6 +39,12 @@ BFE 1 (Level 5)
 BFE 2 (Level 6)
 
 [https://docs.google.com/document/d/1IWCNEdLuYXs0mHnh27ALiU5XN026nZwoaRp3f8JOAy8/edit](https://docs.google.com/document/d/1IWCNEdLuYXs0mHnh27ALiU5XN026nZwoaRp3f8JOAy8/edit)
+
+
+
+Mentorship Files
+
+[https://docs.google.com/document/d/16Rje4OaF27h1LwL5c8Q9iBwB\_R22zpWvZj9\_SSBVE0w/edit](https://docs.google.com/document/d/16Rje4OaF27h1LwL5c8Q9iBwB\_R22zpWvZj9\_SSBVE0w/edit)
 
 
 
