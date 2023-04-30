@@ -1,8 +1,7 @@
 # ♻ Level Adaptation
 
-* Older levels should be removed, reduces clutter
-* Levels need to be adapted to closer times
-* Level means trends too
+* Levels that are irrelevant or levels that have already been hit and tested should be deleted to reduce clutter, only have useful information on your chart.
+* Trends are levels too
 
 
 

@@ -37,6 +37,7 @@
   * [↕ Polarity Flow](cotton-lessons/butterfly-effect-1-level-5/polarity-flow.md)
   * [💲 Profit Caps](cotton-lessons/butterfly-effect-1-level-5/profit-caps.md)
   * [⚡ Trigger Points](cotton-lessons/butterfly-effect-1-level-5/trigger-points.md)
+  * [⭕ Advanced Cycles](cotton-lessons/butterfly-effect-1-level-5/advanced-cycles.md)
 * [🦋 Butterfly Effect 2 (Level 6)](cotton-lessons/butterfly-effect-2.md)
 
 ## 📖 Notes

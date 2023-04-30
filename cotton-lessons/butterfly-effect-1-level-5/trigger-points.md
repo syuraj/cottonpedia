@@ -28,6 +28,8 @@ Trigger and Target point are different.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
+If you have hit a sufficient profit, you can adapt trend on a break to as you have more breathing room.&#x20;
+
 ## Youtube
 
 {% embed url="https://www.youtube.com/watch?v=Lv8sGfxHQBg&list=PLBcrRkQDkiji9W3JVrn-ifhSVlaGI0YEa&index=38" %}
