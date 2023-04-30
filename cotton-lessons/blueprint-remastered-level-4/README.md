@@ -34,19 +34,15 @@ In extremely risky level, you have to do RA the hell out of that level.
 
 #### Misidentifying Odds
 
-If you are playing a 10/10 level at the bottom of a range to the first bounce, then you're completely misidentifyign the implied trading odds of that trade.
+If you are playing a 10/10 level at the bottom of a range to the first bounce, then you're completely misidentifying the implied trading odds of that trade.
 
 
 
-Premium & Non Premium Trades
+**Premium & Non Premium Trades**
 
-U also have to start thinking about things in terms of premium and non-premium entries because not every move goes from polarity to polarity and when u see these things like non polarized moments getting targeted and creating polarity on the bottom
+You also have to start thinking about things in terms of premium and non-premium entries because not every move goes from polarity to polarity and when u see these things like non polarized moments getting targeted and creating polarity on the bottom
 
-
-
-It's soo fundamentally wrong to take a position that is soo polarized like an origin level for example, and just say i want to make 2% on it, that would be foolish unless u have a very specific reason
-
-
+It's so fundamentally wrong to take a position that is so polarized like an origin level for example, and just say i want to make 2% on it, that would be foolish unless u have a very specific reason
 
 Everytime u enter a trade u have to start thinking about how polarized is this move on the larger scale of things vs this implied trading odd - how far could this thing go down&#x20;
 

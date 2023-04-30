@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🙏 Introduction](README.md)
-* [🔤 Terminologies](README.md)
+* [🔤 Terminologies](<README (1).md>)
 * [🍭 Cotton Videos](cotton-videos.md)
 * [🎵 Lessons in Spotify](lessons-in-spotify.md)
 
