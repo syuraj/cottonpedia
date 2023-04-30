@@ -22,7 +22,7 @@ Hold level will protect from breaking a trend but not forever.
 
 ## HTF Hold Level vs LTF Hold Level
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hold level in Higher timeframe is more important than the one in lower timeframe&#x20;
 
@@ -32,5 +32,5 @@ if price rejects HTF hold, then LTF hold won't be able to hold&#x20;
 
 ## Each hold level should've a corresponding break level.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 

@@ -18,7 +18,7 @@ Buy on an untested hold level
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Trigger points at Trend break</p></figcaption></figure>
 
-![](<../../.gitbook/assets/image (15).png>)![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)![](<../../.gitbook/assets/image (1) (1).png>)
 
 If a hold level holds, it always creates a trend, you should always be in profit.
 
@@ -26,7 +26,7 @@ Trigger and Target point are different.
 
 ### Example of a Trigger vs Target
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you have hit a sufficient profit, you can adapt trend on a break to as you have more breathing room.&#x20;
 
