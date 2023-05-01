@@ -9,7 +9,9 @@
 
 * [👼 Beginner's Course (Level 1)](cotton-lessons/beginners-course-level-1/README.md)
   * [♻ Level Adaptation](cotton-lessons/beginners-course-level-1/level-adaptation.md)
-  * [🔻 Fractal Information](cotton-lessons/beginners-course-level-1/fractal-information.md)
+  * [📈 Swing highs & lows](cotton-lessons/beginners-course-level-1/swing-highs-and-lows.md)
+* [👨💼 Advanced Course (Level 2)](cotton-lessons/advanced-course-level-2/README.md)
+  * [🔻 Fractal Information](cotton-lessons/advanced-course-level-2/fractal-information.md)
 * [🤖 The Future of Day Trading (Level 3)](cotton-lessons/the-future-of-day-trading-level-3/README.md)
   * [📉 Trend Architecture](cotton-lessons/the-future-of-day-trading-level-3/trend-architecture.md)
   * [❎ Hard Close](cotton-lessons/the-future-of-day-trading-level-3/hard-close.md)

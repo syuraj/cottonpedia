@@ -22,7 +22,7 @@ Frontside hold level is in the front side of the move and has a weak reaction (g
 
 Example of a uptrend with strong reaction from BS hold
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 FS is to hold the move and catch greedy point
 

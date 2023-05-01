@@ -1,6 +1,6 @@
 # 📉 Trend Architecture
 
-![Untitled](<../../.gitbook/assets/Untitled (4).png>)
+![Untitled](../../.gitbook/assets/Untitled.png)
 
 * Trend, accumulation to accumulation in top side, distribution to distribution in bottom side
 * Legacy - grandfather
