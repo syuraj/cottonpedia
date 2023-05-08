@@ -2,7 +2,7 @@
 
 A -
 
-**ARRAYING**: This describes moving your trend reach point. Example: Once a trends breaks you want to array only the reach point to update the trend.
+**ARRAYING**: This describes moving your trends reach point. Example: Once a trends breaks you want to array only the reach point to update the trend.
 
 
 
