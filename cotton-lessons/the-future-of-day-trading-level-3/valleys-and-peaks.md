@@ -8,15 +8,11 @@ Break level is the first indication that a level (valley/peak) is about to break
 
 ### Valleys and Peaks
 
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
+Valley is 2 or more candles of distribution
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Valley can be only 2 candles of distribution
-
-Peak can be only 2 candles of accumulation
-
-
+Peak is 2 or more candles of accumulation
 
 ### Breaking a break level
 
