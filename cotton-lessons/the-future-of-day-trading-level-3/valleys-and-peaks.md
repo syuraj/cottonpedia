@@ -1,8 +1,8 @@
 # ⚡ Break Levels
 
-Break level is a wick of a 2 candle move (accumulation or distribution)&#x20;
+Break level is at the start of a 2 candle move (accumulation or distribution)&#x20;
 
-Break level can potentially create valley or peaks (picture below)
+Break level can potentially create valley or peaks (picture below) (2 accumulations = peak, 2 distributions = valley)
 
 Break level is the first indication that a level (valley/peak) is about to break
 
