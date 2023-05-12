@@ -2,7 +2,17 @@
 
 ### Example of 2 possible scenarios
 
-![](<../../.gitbook/assets/image (15).png>)![](<../../.gitbook/assets/image (2).png>)
+Depends on which level it attacks
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
