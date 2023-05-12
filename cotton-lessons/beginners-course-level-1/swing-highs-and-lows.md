@@ -6,4 +6,4 @@ Purple is only internal swing low.
 
 Blue above purple cannot be considered as an external swing high as it doesn't have enough pullback and only caused internal swing low.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
