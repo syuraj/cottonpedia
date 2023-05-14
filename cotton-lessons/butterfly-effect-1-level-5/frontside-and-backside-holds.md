@@ -30,7 +30,7 @@ FS is to hold the move and catch greedy point
 
 In downtrend, BS from bottom of previous peak (2 accumulation candle) gives strong reaction
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Untested levels are more useful
 
