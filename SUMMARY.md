@@ -45,7 +45,8 @@
   * [📉 Trend Collapses](cotton-lessons/butterfly-effect-1/trend-collapses.md)
   * [🚠 Level Setting](cotton-lessons/butterfly-effect-1/level-setting.md)
   * [↕ Reverse Levels](cotton-lessons/butterfly-effect-1/reverse-levels.md)
-* [🦋 Butterfly Effect 2 (Level 6)](cotton-lessons/butterfly-effect-2.md)
+* [🦋 Butterfly Effect 2 (Level 6)](cotton-lessons/butterfly-effect-2/README.md)
+  * [⬇ Rejection as a Target](cotton-lessons/butterfly-effect-2/rejection-as-a-target.md)
 
 ## 📖 Notes
 
