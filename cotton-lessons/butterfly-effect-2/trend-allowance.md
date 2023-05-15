@@ -1,8 +1,18 @@
+---
+description: Allowing the trend to break
+---
+
 # 📉 Trend Allowance
 
 ### Trend break causing level break
 
+You can delete the level after the trend is broken
+
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+You can allow trend to break until corresponding level is hit
+
+
 
 ## Youtube
 
