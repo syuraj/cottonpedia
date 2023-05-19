@@ -4,6 +4,8 @@ description: Protects the range or break-levels
 
 # 🔗 Hold Levels
 
+Hold level holds the price.
+
 Hold level protects the range or a break-level.
 
 So, hold level cannot exist without a break-level.
@@ -17,6 +19,8 @@ Hold can be **body or wick** of a candle
 It is lower body or wick of a accumulation candle at the top side
 
 It is upper body or wick of a distribution candle at the bottom side
+
+Testing wick is same as testing body
 
 ![Untitled](<../../.gitbook/assets/Untitled (3).png>)
 
@@ -48,3 +52,6 @@ if price rejects HTF hold, then LTF hold won't be able to hold&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
+## Youtube
+
+{% embed url="https://www.youtube.com/watch?v=CPxA4X8IAtc&list=PLBcrRkQDkijitvKZ3Vkr-bVLE8HQ06h9V&ab_channel=C0TT0NC4NDYTA" %}
