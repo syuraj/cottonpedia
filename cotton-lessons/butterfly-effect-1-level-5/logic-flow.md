@@ -6,7 +6,7 @@ description: Every chart has a story
 
 ## Unencumbered (free) Hold Level
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Not unencumbered (free) Hold Level
 
