@@ -1,8 +1,18 @@
+---
+description: Protects the range or break levels
+---
+
 # 🔗 Hold Levels
+
+Hold level protects the range or break level.
 
 ### Body or wick
 
-Hold can be **body or wick** of a candle (distribution at bottom side and accumulation at top side)
+Hold can be **body or wick** of a candle
+
+It is lower body or wick of a accumulation candle at the top side
+
+It is upper body or wick of a distribution candle at the bottom side
 
 ![Untitled](<../../.gitbook/assets/Untitled (3).png>)
 
