@@ -1,10 +1,14 @@
 ---
-description: Protects the range or break levels
+description: Protects the range or break-levels
 ---
 
 # 🔗 Hold Levels
 
 Hold level protects the range or break level.
+
+So, hold level cannot exist without a break level.
+
+Hold level is always nearby (or right before) a break level.
 
 ### Body or wick
 
