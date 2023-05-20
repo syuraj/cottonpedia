@@ -14,7 +14,13 @@ When FS of a range is broken, you are also likely breaking BS of bigger range
 
 
 
-Instagram Reel from from @christiano#7121
+## Multiple Timeframe Ranges testing
+
+Sometimes, price could be testing 2 ranges/levels in 2 different timeframes
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+## Instagram Reel from from @christiano#7121
 
 {% embed url="https://www.instagram.com/reel/CsH6o0vJQ2L" %}
 
