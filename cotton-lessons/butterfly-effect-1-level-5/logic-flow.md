@@ -14,7 +14,7 @@ description: Every chart has a story
 
 Find untested ranges & find the perfect untested greedy levels within the range
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 

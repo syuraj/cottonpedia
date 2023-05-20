@@ -1,12 +1,12 @@
 # 🔗 Strong & Greedy Holds
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Strong &#x26; Greedy Holds</p></figcaption></figure>
 
 #### Strong hold level
 
-Strong hold level is going to have a strong reaction, its gonna come down touch the level and have a strong instant reaction afterwards (knife catch scenario,big bounce and/or quick move)
+Strong hold level is going to have a strong reaction, its gonna come down touch the level and have a strong instant reaction afterwards (knife catch scenario, big bounce and/or quick move)
+
+Strong reaction usually results in new higher high or lower low.
 
 #### Greedy Hold level
 

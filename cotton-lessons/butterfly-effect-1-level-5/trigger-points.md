@@ -26,7 +26,7 @@ Trigger and Target point are different.
 
 ### Example of a Trigger vs Target
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you have hit a sufficient profit, you can adapt trend on a break to as you have more breathing room.&#x20;
 

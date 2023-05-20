@@ -48,6 +48,8 @@
 * [🦋 Butterfly Effect 2 (Level 6)](cotton-lessons/butterfly-effect-2/README.md)
   * [⬇ Rejection as a Target](cotton-lessons/butterfly-effect-2/rejection-as-a-target.md)
   * [📉 Trend Allowance](cotton-lessons/butterfly-effect-2/trend-allowance.md)
+* [🧑🏫 Mentorship Files](cotton-lessons/mentorship-files/README.md)
+  * [1⃣ Lesson 1](cotton-lessons/mentorship-files/lesson-1.md)
 
 ## 📖 Notes
 
