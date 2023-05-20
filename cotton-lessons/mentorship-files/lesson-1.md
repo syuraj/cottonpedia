@@ -8,7 +8,11 @@ If price reaches greedy or break level, then it might be setting up to break the
 
 Sometimes, price could be testing 2 ranges/levels in 2 different timeframes
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Testing 2 Ranges</p></figcaption></figure>
+
+
+
+##
 
 ## Youtube
 
