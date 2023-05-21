@@ -14,7 +14,7 @@ Never buy a Trend break
 
 Buy on an untested hold level
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Trigger points at Hold or Trend break</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Trigger points at Hold or Trend break</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Trigger points at Trend break</p></figcaption></figure>
 

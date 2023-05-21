@@ -16,11 +16,21 @@ No risk SL means we miss some trades
 
 If you use high leverage, use no risk SL.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>No risk SL</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>No risk SL</p></figcaption></figure>
 
 Since No risk SL is the final support, it is a moment of polarity too. If this level is broken, it will be a breakout.
 
+### Example 2 (No risk and Low risk levels)
 
+Find greediest FS hold level (in lower timeframe) which is holding the range.
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Low risk and No risk levels</p></figcaption></figure>
+
+### High risk level
+
+When confidence is high
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 
