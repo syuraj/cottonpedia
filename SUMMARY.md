@@ -26,6 +26,7 @@
   * [♻ Swing Trading](cotton-lessons/swing-trading.md)
   * [🧘♂ 🧘♂ Position Trading](cotton-lessons/position-trading.md)
   * [🤑 Scalp Trading](cotton-lessons/scalp-trading.md)
+* [👽 Ultimate Stop Loss Guide](cotton-lessons/ultimate-stop-loss-guide.md)
 * [🦋 Butterfly Effect 1 (Level 5)](cotton-lessons/butterfly-effect-1/README.md)
   * [🔗 Strong & Greedy Holds](cotton-lessons/butterfly-effect-1/strong-and-greedy-holds.md)
   * [🔀 Frontside & Backside Holds](cotton-lessons/butterfly-effect-1-level-5/frontside-and-backside-holds.md)

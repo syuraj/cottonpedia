@@ -19,7 +19,7 @@ Final low is the lowest level below which there is no untested hold level left.
 
 After final hold (greediest hold) at top is tested, the whole thing collapses touching the final low (nearest untested hold level)
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
