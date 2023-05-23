@@ -51,6 +51,7 @@
   * [📉 Trend Allowance](cotton-lessons/butterfly-effect-2/trend-allowance.md)
 * [🧑🏫 Mentorship Files](cotton-lessons/mentorship-files/README.md)
   * [1⃣ Lesson 1](cotton-lessons/mentorship-files/lesson-1.md)
+  * [3⃣ Lesson 3](cotton-lessons/mentorship-files/lesson-3.md)
 
 ## 📖 Notes
 
