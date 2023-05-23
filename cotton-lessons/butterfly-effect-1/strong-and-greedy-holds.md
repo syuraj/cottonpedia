@@ -1,6 +1,6 @@
 # 🔗 Strong & Greedy Holds
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Strong &#x26; Greedy Holds</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Strong &#x26; Greedy Holds</p></figcaption></figure>
 
 #### Strong hold level
 
