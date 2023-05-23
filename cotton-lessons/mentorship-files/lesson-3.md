@@ -10,7 +10,7 @@ FS test will have weaker reaction and could result in laddering
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>BS n FS of a range</p></figcaption></figure>
 
-### Stronger reaction targets Strong target
+### Stronger level will go for Strong target
 
 Similarly if greedier level gets attacked, it will target greedier target (e.g. trend in the pic below)
 
