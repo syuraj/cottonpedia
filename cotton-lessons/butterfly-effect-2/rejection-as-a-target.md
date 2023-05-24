@@ -2,7 +2,7 @@
 
 Critical spots to long and short and the best price to buy are two of the most important areas in your day trading skills and get higher accuracy trades.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 

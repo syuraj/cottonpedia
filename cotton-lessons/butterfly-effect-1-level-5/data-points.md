@@ -22,7 +22,7 @@ Untested back side is even more powerful.
 
 Weak reaction from a level from the Front side of a leg. example below.&#x20;
 
-They are the best to get greeder prices if it holds.
+They are the best to get greedier prices if it holds.
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ They are the best to get greeder prices if it holds.
 
 If you try to buy every trend break, you will go broke
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Trends are there to get rejected. 19 out of 20 times.
 

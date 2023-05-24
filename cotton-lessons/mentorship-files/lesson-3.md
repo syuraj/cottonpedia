@@ -10,11 +10,17 @@ FS test will have weaker reaction and could result in laddering
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>BS n FS of a range</p></figcaption></figure>
 
-### Stronger level will go for Strong target
+### Stronger level will go for a Stronger target
 
 Similarly if greedier level gets attacked, it will target greedier target (e.g. trend in the pic below)
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Strong vs Weak target</p></figcaption></figure>
+
+Trend strength depends on which part of the range it hits
+
+In the pic below, after weaker reaction from a greedy level, it builds momentum after bouncing against trends and spikes through the range
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
