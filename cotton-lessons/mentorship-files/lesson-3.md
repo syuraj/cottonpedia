@@ -22,11 +22,9 @@ If above range (orange box) is tested at start, the trend (pink) loses strength,
 
 If above range (orange box) is tested at greedier level, the trend (pink) gains strength, hence it is able to hold the price (red arrows)
 
-
-
 In the pic below, after weaker reaction from a greedy level, it builds momentum after bouncing against trends and spikes through the range
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,8 +36,6 @@ In the pic below, spike because of internal range trend break, not because of we
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Range trend</p></figcaption></figure>
 
-
-
 ### When the expected doesn't happen, expect the exact opposite.
 
 BS bounce was supposed to break, but couldn't. It implies trend is stronger than the BS and hence BS is not able to hold.
@@ -48,7 +44,9 @@ BS bounce was supposed to break, but couldn't. It implies trend is stronger than
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
+### Rocket Launch
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Youtube
 
