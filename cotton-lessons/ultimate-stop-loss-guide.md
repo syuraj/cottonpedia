@@ -24,7 +24,7 @@ Since No risk SL is the final support, it is a moment of polarity too. If this l
 
 Find greediest FS hold level (in lower timeframe) which is holding the range.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Low risk and No risk levels</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Low risk and No risk levels</p></figcaption></figure>
 
 ### High risk level
 

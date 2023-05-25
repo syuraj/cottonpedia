@@ -32,6 +32,24 @@ In the pic below, after weaker reaction from a greedy level, it builds momentum 
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+### Range trend break causing spike
+
+In the pic below, spike because of internal range trend break, not because of weekly pink trend.
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Range trend</p></figcaption></figure>
+
+
+
+### When the expected doesn't happen, expect the exact opposite.
+
+BS bounce was supposed to break, but couldn't. It implies trend is stronger than the BS and hence BS is not able to hold.
+
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### Youtube
 
 {% embed url="https://www.youtube.com/watch?v=AiXqWUreGKk&list=PLBcrRkQDkijjNI4Crr2u-nYn8iN3d0WdH&index=4&ab_channel=C0TT0NC4NDYTA" %}
