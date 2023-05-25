@@ -18,7 +18,7 @@ Buy on an untested hold level
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Trigger points at Trend break</p></figcaption></figure>
 
-![](<../../.gitbook/assets/image (15) (1) (1) (1).png>)![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (1) (1).png>)
 
 If a hold level holds, it always creates a trend, you should always be in profit.
 

@@ -18,11 +18,19 @@ Similarly if greedier level gets attacked, it will target greedier target (e.g. 
 
 Trend strength depends on which part of the range it hits
 
+If above range (orange box) is tested at start, the trend (pink) loses strength, hence it is Not able to hold the price (red arrows)
+
+If above range (orange box) is tested at greedier level, the trend (pink) gains strength, hence it is able to hold the price (red arrows)
+
+
+
 In the pic below, after weaker reaction from a greedy level, it builds momentum after bouncing against trends and spikes through the range
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### Youtube
 

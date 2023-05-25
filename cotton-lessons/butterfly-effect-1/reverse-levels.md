@@ -4,7 +4,7 @@ When u wick thru a level that ur supposed to hold, that ends up being the greedi
 
 If u don't hard close the reverse level u actually don't lose the move and it becomes the final hold
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Reverse Level</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Reverse Level</p></figcaption></figure>
 
 Reverse trends typically work on higher timeframes, not always but typically.
 
