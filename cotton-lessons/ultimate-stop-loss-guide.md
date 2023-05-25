@@ -30,7 +30,7 @@ Find greediest FS hold level (in lower timeframe) which is holding the range.
 
 When confidence is high
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 

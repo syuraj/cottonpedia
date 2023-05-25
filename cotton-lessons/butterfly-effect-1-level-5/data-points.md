@@ -30,7 +30,7 @@ They are the best to get greedier prices if it holds.
 
 If you try to buy every trend break, you will go broke
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Trends are there to get rejected. 19 out of 20 times.
 
