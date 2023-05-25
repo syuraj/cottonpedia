@@ -10,7 +10,7 @@ Fixed target.
 
 Identifying capped trade is easy.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Profit Cap or Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Profit Cap or Target</p></figcaption></figure>
 
 1% in 1 min candle is justifiable but that may exist on that timeframe only
 

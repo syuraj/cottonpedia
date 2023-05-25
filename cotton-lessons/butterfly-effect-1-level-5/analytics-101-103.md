@@ -16,7 +16,7 @@ This is all about analyzing your past trades and understanding what you did righ
 
 ## Example of a long entry
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Note**: Draw levels from outside (higher tf) to inside (lower tf)
 

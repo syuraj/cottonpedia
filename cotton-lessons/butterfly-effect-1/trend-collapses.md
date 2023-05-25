@@ -2,7 +2,7 @@
 
 ### Example of 2 possible scenarios
 
-Depends on which level it attacks
+If price attacks the break level, it might for a trend and eventually break out.
 
 <div>
 
@@ -13,6 +13,8 @@ Depends on which level it attacks
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+
 
 
 

@@ -4,7 +4,7 @@ If price reverts without reaching strong level or greedy level , then it will li
 
 If price reaches greedy or break level, then it might be setting up to break the level.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sometimes, price could be testing 2 ranges/levels in 2 different timeframes
 

@@ -12,6 +12,8 @@ So, hold level cannot exist without a break-level.
 
 Hold level is always nearby (or right before) a break-level.
 
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 ### Body or wick
 
 Hold can be **body or wick** of a candle
@@ -20,9 +22,15 @@ It is lower body or wick of a accumulation candle at the top side
 
 It is upper body or wick of a distribution candle at the bottom side
 
+### Testing Hold Level
+
+Hold level is considered tested if price comes back to touch it and reverse
+
 Testing wick is same as testing body
 
-![Untitled](<../../.gitbook/assets/Untitled (3).png>)
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Hold level testing</p></figcaption></figure>
+
+Once tested, hold level should be removed.
 
 ### Back side and Front side hold level
 

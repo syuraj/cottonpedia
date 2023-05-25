@@ -8,7 +8,7 @@ Break level is the first indication that a level (valley/peak) is about to break
 
 ### Valleys and Peaks
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Valley is 2 or more candles of distribution
 

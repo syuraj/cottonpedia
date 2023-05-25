@@ -35,7 +35,7 @@ Exterior moments creates polarity and Internal moments tests that polarity
 
 Interior moment can exist for any period of time and can be independent of anything and are defined by exterior moment 🤔🤔
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 
