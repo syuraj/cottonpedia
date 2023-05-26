@@ -12,7 +12,7 @@ So, hold level cannot exist without a break-level.
 
 Hold level is always nearby (or right before) a break-level.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Body or wick
 
@@ -44,7 +44,7 @@ BS is broken first
 
 Hold level will protect from breaking a trend but not forever.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## HTF Hold Level vs LTF Hold Level
 

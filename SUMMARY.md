@@ -52,6 +52,7 @@
 * [🧑🏫 Mentorship Files](cotton-lessons/mentorship-files/README.md)
   * [1⃣ Lesson 1](cotton-lessons/mentorship-files/lesson-1.md)
   * [3⃣ Lesson 3](cotton-lessons/mentorship-files/lesson-3.md)
+  * [4⃣ Lesson 4](cotton-lessons/mentorship-files/lesson-4.md)
 
 ## 📖 Notes
 

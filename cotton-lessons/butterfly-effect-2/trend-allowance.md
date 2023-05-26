@@ -8,7 +8,7 @@ description: Allowing the trend to break
 
 You can delete the level after the trend is broken
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 You can allow trend to break until corresponding level is hit
 
