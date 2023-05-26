@@ -10,11 +10,23 @@ When a range breaks, it goes to another range.
 
 ### Range is created by levels but dictated by wicks.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Diagonal Range
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Range breaking
+
+Trends attack ranges
+
+When a trend cannot hold level, it will create new trend
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 ### Youtube
 

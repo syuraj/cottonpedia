@@ -24,7 +24,7 @@ If above range (orange box) is tested at greedier level, the trend (pink) gains 
 
 In the pic below, after weaker reaction from a greedy level, it builds momentum after bouncing against trends and spikes through the range
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 

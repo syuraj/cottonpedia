@@ -12,7 +12,7 @@ So, hold level cannot exist without a break-level.
 
 Hold level is always nearby (or right before) a break-level.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Body or wick
 
