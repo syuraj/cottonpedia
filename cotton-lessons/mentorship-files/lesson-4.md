@@ -22,7 +22,15 @@ Trends attack ranges
 
 When a trend cannot hold level, it will create new trend
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Range Trend</p></figcaption></figure>
+
+### Range break failure
+
+If trend is not able to break the range, it will break and go to greedier level of the range
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Trend attacks Range</p></figcaption></figure>
+
+
 
 
 
