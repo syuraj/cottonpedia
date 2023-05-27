@@ -4,9 +4,7 @@ A -
 
 **ARRAYING**: This describes moving your trends reach point. Example: Once a trend breaks you want to array only the reach point to update the trend.
 
-
-
-B -&#x20;
+B -
 
 **BASE**: This describes the starting point of any given area as to where a range describes the entirety from top to bottom the term Base describes the point in which it starts.
 
@@ -14,9 +12,7 @@ B -&#x20;
 
 **BFE**: Butterfly Effect Course
 
-
-
-C -&#x20;
+C -
 
 **CA**: Comparative Analysis; c0tt0nc4ndyta created this term and engineered the science behind it. The higher form of TA(Technical Analysis) where events create different future outcomes based on in the moment analysis.
 
@@ -24,23 +20,17 @@ C -&#x20;
 
 **COMBINATION LEVEL**: When multiple levels get hit at once.
 
-
-
-D -&#x20;
+D -
 
 **DECYCLING**: The mathematical formula in which Day Trading Was built upon.
 
 **DEEP DIVING**: When a wick or body goes beyond a level but doesn't hard close.
 
-
-
-E -&#x20;
+E -
 
 **EVENTS**: The moments on the chart that define the meta of the market.
 
-
-
-F -&#x20;
+F -
 
 **FINAL HOLD**: The final untested hold level in a move that will act as support or resistance. This should be watched closely with trend, and origins as it can create large breakouts.
 
@@ -50,27 +40,19 @@ F -&#x20;
 
 **FRAGILITY**: Often confused with polarity this is known as how many pieces of a move are inside a range, and which is that weakest piece. A range with 10 levels inside of it will have higher amount of fragility the closer they are and lower amounts of fragility the deeper the move goes into the range.
 
-
-
-G -&#x20;
+G -
 
 **GLOBAL**: The information that connect local and legacy information as the in-between expected moments.
 
-
-
-H -&#x20;
+H -
 
 **HOLD LEVEL**: A level that can hold the price in it's current direction, this can be placed on a wick, or the body of a candle.
 
 **HARD CLOSE**: This is how we confirm moves have broken their data point; when the bottom side of the body on a candle closes it confirms the closing or passing through of a level/data point.
 
-
-
-I -&#x20;
+I -
 
 **INVERSE**: Any terminology applied on the opposite side. An example of this would be an "Inverse Hold Level".
-
-
 
 J - K - L -
 
@@ -84,23 +66,17 @@ J - K - L -
 
 **LOCAL**: The most localized or interior information to be found on the chart. The immediate or next piece.
 
-
-
 M -
 
 **MA**: Mental Analysis; the analysis of the mind.
 
 **Market Meta**: This is the overall expectation of what's expected in the future based on current analysis of larger legacy information on the charts.
 
-
-
-N - O -&#x20;
+N - O -
 
 **ORIGIN LEVEL**: An original level that was never hard closed. These create breakout points.
 
-
-
-P -&#x20;
+P -
 
 **PA**: Procedural Analysis; c0tt0nc4ndyta created this term and engineered the science behind it. This is the preparation and execution layer of trading before an actual trade happens.
 
@@ -108,9 +84,7 @@ P -&#x20;
 
 **POLARITY**: The data point in which creates the breakout in either direction. Polarity is a black and white moment that will launch a move in either direction. That can be created at any point or level and moves from range to range.
 
-
-
-Q - R -&#x20;
+Q - R -
 
 **RA**: This refers to Risk Assessment which a guide for can be found here: https://youtu.be/s49kp30OEqc
 
@@ -120,16 +94,25 @@ Q - R -&#x20;
 
 **REVERSE LEVEL**: A level on the chart that has been passed through. In the future this may act as support or resistance if it wasn't respected on it's first test.
 
-
-
 S -
 
 **SLG**: This refers to the stop loss guide found here: https://youtu.be/U01gJxCxLLg
 
-
-
-T -&#x20;
+T -
 
 **TA**: Technical Analysis; analyzing the data points on a chart. TLOT: The Three Lanes Of Trading.
 
 U - V - W - X - Y - Z -
+
+
+
+### Candle Colors
+
+* 1 Minute: #ffffff (white)&#x20;
+* 3 Minute: #e91e63 (Pink)&#x20;
+* 5 Minute: #ff9800 (Orange)&#x20;
+* 15 Minute: #4caf50 (Green)&#x20;
+* 1 Hour: #00bcd4 (Light Blue)&#x20;
+* 4 Hour: #ffeb3b (Yellow)&#x20;
+* 1 Day: #f23645 (Red)&#x20;
+* 1 Week: #9c27b0 (Purple)
