@@ -28,7 +28,7 @@ In the pic below, after weaker reaction from a greedy level, it builds momentum 
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Range trend break causing spike
 

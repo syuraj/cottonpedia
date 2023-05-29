@@ -30,7 +30,11 @@ If trend is not able to break the range, it will break and go to greedier level 
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Trend attacks Range</p></figcaption></figure>
 
+### Higher TF > Lower TF
 
+3 scenarios
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 
 
