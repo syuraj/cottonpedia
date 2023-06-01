@@ -8,6 +8,8 @@ The new data point (BS) being created tells that it might not be bouncing down i
 
 ### When a ladder is broken, move to HTF
 
+Move to HTF until you find the trend that controls the range.
+
 <div>
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
