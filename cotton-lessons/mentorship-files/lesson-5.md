@@ -20,6 +20,10 @@ Move to HTF until you find the trend that controls the range.
 
 </div>
 
+Ladder points are created sometimes because strong levels are front run (few dollars above/below the strong level)
+
+
+
 ### Youtube
 
 {% embed url="https://www.youtube.com/watch?v=CXGS3I2m75w&list=PLBcrRkQDkijjNI4Crr2u-nYn8iN3d0WdH&index=5" %}
