@@ -36,7 +36,9 @@ If trend is not able to break the range, it will break and go to greedier level 
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+### Polarizing moment
 
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 
 
