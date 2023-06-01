@@ -8,7 +8,15 @@ The new data point (BS) being created tells that it might not be bouncing down i
 
 ### When a ladder is broken, move to HTF
 
-![](<../../.gitbook/assets/image (19).png>)![](<../../.gitbook/assets/image (10).png>)
+<div>
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Youtube
 
