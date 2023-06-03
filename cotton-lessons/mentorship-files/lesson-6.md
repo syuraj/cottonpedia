@@ -22,11 +22,11 @@ So creativity allows you to actually maximize your TA and the TA, the logic laye
 
 ### Question: What's the trick to picking the level you should trade without having a bias&#x20;
 
-Answer: You have to take emotion out, the trick isn't to make them all great. This is an exercise, let’s first be very clear on that, this is an exercise start marking all your levels as gray and see what happens, that's the exercise. The trick is to use both your emotion and intellect to have your levels marked out, intellectually make outcomes, but not let the bias of emotion dictate them like of its a 4hr but I think it's going to the daily - ofc were gonna do this its a natural process however let your mind run its logical path of natural selection because I think we can all agree that if we have 100% brain power it's better to use 95% of your brain power to make these decisions since it's such a technical field, this is all technical data which is all brain power, which is all intellect and logic flow and outcomes through logic&#x20;
+Answer: You have to take emotion out, the trick isn't to make them all great. This is an exercise, let’s first be very clear on that, this is an exercise start marking all your levels as gray and see what happens, that's the exercise. The trick is to use both your emotion and intellect to have your levels marked out, intellectually make outcomes, but not let the bias of emotion dictate them like of its a 4hr but I think it's going to the daily - ofc were gonna do this its a natural process however let your mind run its logical path of natural selection because I think we can all agree that if we have 100% brain power it's better to use 95% of your brain power to make these decisions since it's such a technical field, this is all technical data which is all brain power, which is all intellect and logic flow and outcomes through logic.
 
-\
-\
+### &#x20;Missed trade
 
+Don't care, don't be upset, don't let emotions start to drive the wheel. This is another part where people start to fail.
 
 ### Youtube
 
