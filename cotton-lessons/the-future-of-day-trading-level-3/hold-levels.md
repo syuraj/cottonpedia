@@ -22,15 +22,17 @@ It is lower body or wick of a accumulation candle at the top side
 
 It is upper body or wick of a distribution candle at the bottom side
 
-### Testing Hold Level
+### Testing a Hold Level
 
-Hold level is considered tested if price comes back to touch it and reverse
+Hold level is considered tested if price comes back to touch it and reverse. (pic below)
 
 Testing wick is same as testing body
 
+If the candle wicks through it, then it might be link a [reverse level](../butterfly-effect-1/reverse-levels.md).
+
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Hold level testing</p></figcaption></figure>
 
-Once tested, hold level should be removed.
+Tested levels are generally deleted to remove clutter.
 
 ### Back side and Front side hold level
 
