@@ -36,6 +36,16 @@ In the pic below, spike because of internal range trend break, not because of we
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Range trend</p></figcaption></figure>
 
+Spikes occur on the internal to align the move with it's external target.
+
+If the external has already had that spike, then as long as the internal is developing in a way to fulfill that then you would just be following that development by laddering down.&#x20;
+
+If the internal isn't setting up in that way, then you would see that spike out opposite to direction of external to "correct" the internal range.
+
+When you have an external move in play, spikes on the internal is what you are looking for, however external and internal are always relative and these markets are fractal. So whatever external move you are looking at, spikes internal to that is what you are considering, external moves develop normally because the idea is that interior can't break interior, only exterior can break interior, meaning spikes out of internal to external is what onsets the internal moves to align with external
+
+
+
 ### When the expected doesn't happen, expect the exact opposite.
 
 BS bounce was supposed to break, but couldn't. It implies trend is stronger than the BS and hence BS is not able to hold.

@@ -8,11 +8,15 @@ So every time you feel an emotion, just take a level off your screen and have le
 
 If 15 min hold at bottom attacks 15 min hold at top, you would use 15 min holds.
 
+### Exit on a untested hold
 
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Exit on untested hold</p></figcaption></figure>
 
 ### Active & Passive contracts
 
+Passive creates polarity and Active trades creates ladder points
 
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ### Youtube
 

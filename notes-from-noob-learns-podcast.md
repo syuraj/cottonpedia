@@ -10,7 +10,7 @@ The level at the wick of candle pointed in the pic below is break level but Not 
 
 So, break level at the bottom is the correct one.
 
-<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Adapting Trend
 
