@@ -16,7 +16,9 @@ If 15 min hold at bottom attacks 15 min hold at top, you would use 15 min holds.
 
 Passive creates polarity and Active trades creates ladder points
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Active &#x26; Passive contracts</p></figcaption></figure>
+
+
 
 ### Youtube
 

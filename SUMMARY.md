@@ -12,6 +12,8 @@
   * [📈 Swing highs & lows](cotton-lessons/beginners-course-level-1/swing-highs-and-lows.md)
 * [👨💼 Advanced Course (Level 2)](cotton-lessons/advanced-course-level-2/README.md)
   * [🔻 Fractal Information](cotton-lessons/advanced-course-level-2/fractal-information.md)
+* [🧘♂ Mental Analysis (Level 2)](cotton-lessons/mental-analysis-level-2/README.md)
+  * [🛑 Roadblocks](cotton-lessons/mental-analysis-level-2/roadblocks.md)
 * [🤖 The Future of Day Trading (Level 3)](cotton-lessons/the-future-of-day-trading-level-3/README.md)
   * [📉 Trend Architecture](cotton-lessons/the-future-of-day-trading-level-3/trend-architecture.md)
   * [❎ Hard Close](cotton-lessons/the-future-of-day-trading-level-3/hard-close.md)
@@ -56,6 +58,7 @@
   * [5⃣ Lesson 5](cotton-lessons/mentorship-files/lesson-5.md)
   * [6⃣ Lesson 6](cotton-lessons/mentorship-files/lesson-6.md)
   * [7⃣ Lesson 7](cotton-lessons/mentorship-files/lesson-7.md)
+  * [8⃣ Lesson 8](cotton-lessons/mentorship-files/lesson-8.md)
 
 ## 📖 Notes
 
