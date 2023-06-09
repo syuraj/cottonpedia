@@ -34,7 +34,7 @@ In the pic below, after weaker reaction from a greedy level, it builds momentum 
 
 In the pic below, spike because of internal range trend break, not because of weekly pink trend.
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Range trend</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption><p>Range trend</p></figcaption></figure>
 
 Spikes occur on the internal to align the move with it's external target.
 

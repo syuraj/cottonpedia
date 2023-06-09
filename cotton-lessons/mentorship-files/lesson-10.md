@@ -4,6 +4,10 @@
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Trend attack</p></figcaption></figure>
 
+### Adjusting Stop Loss
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Adjusting Stop Loss</p></figcaption></figure>
+
 
 
 ### Youtube
