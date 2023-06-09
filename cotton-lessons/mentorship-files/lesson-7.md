@@ -10,7 +10,7 @@ If 15 min hold at bottom attacks 15 min hold at top, you would use 15 min holds.
 
 ### Exit on a untested hold
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Exit on untested hold</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Exit on untested hold</p></figcaption></figure>
 
 ### Active & Passive contracts
 
