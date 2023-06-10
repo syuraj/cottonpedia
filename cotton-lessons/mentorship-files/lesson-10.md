@@ -8,7 +8,13 @@
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Adjusting Stop Loss</p></figcaption></figure>
 
+Information overload is normal. Eventually multiple theories come together.&#x20;
 
+Like a puzzle, ends up creating a picture.
+
+### Exterior & Interior trend
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### Youtube
 
