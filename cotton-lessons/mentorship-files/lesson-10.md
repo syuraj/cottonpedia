@@ -2,7 +2,7 @@
 
 ### When the trend attack fails, look for an attack on a higher timeframe
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Trend attack</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Trend attack</p></figcaption></figure>
 
 ### Adjusting Stop Loss
 
