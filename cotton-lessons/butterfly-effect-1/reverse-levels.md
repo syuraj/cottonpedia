@@ -1,8 +1,8 @@
 # ↕ Reverse Levels
 
-When price wicks through a level that you're supposed to hold, that ends up being the greediest point in a move, that ends up being ur greedy hold which also gives you your final hold, final low
+When price wicks through a level that you're supposed to hold, that ends up being the greediest point in a move which also gives you your final hold
 
-If u don't hard close the reverse level u actually don't lose the move and it becomes the final hold
+If you don't hard close the reverse level you actually don't lose the move and it becomes the final hold
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Reverse Level</p></figcaption></figure>
 
