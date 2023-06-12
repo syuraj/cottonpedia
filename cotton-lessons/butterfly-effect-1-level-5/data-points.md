@@ -24,7 +24,7 @@ Weak reaction from a level from the Front side of a leg. example below.&#x20;
 
 They are the best to get greedier prices if it holds.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Example 2
 

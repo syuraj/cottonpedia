@@ -6,7 +6,7 @@
 
 ### Adjusting Stop Loss
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Adjusting Stop Loss</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Adjusting Stop Loss</p></figcaption></figure>
 
 Information overload is normal. Eventually multiple theories come together.&#x20;
 
@@ -14,7 +14,9 @@ Like a puzzle, ends up creating a picture.
 
 ### Exterior & Interior trend
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Exterior &#x26; Interior trend</p></figcaption></figure>
+
+
 
 ### Youtube
 

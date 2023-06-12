@@ -4,7 +4,7 @@
 
 Piece of chart that holds price in a range
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ranges</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Ranges</p></figcaption></figure>
 
 When a range breaks, it goes to another range.
 
@@ -28,7 +28,7 @@ When a trend cannot hold level, it will create new trend
 
 If trend is not able to break the range, it will break and go to greedier level of the range
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Trend attacks Range</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Trend attacks Range</p></figcaption></figure>
 
 ### Higher TF > Lower TF
 

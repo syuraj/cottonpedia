@@ -60,6 +60,7 @@
   * [7⃣ Lesson 7](cotton-lessons/mentorship-files/lesson-7.md)
   * [8⃣ Lesson 8](cotton-lessons/mentorship-files/lesson-8.md)
   * [🔟 Lesson 10](cotton-lessons/mentorship-files/lesson-10.md)
+  * [🧑🏫 Lesson 13](cotton-lessons/mentorship-files/lesson-13.md)
 
 ## 📖 Notes
 
