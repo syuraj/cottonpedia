@@ -1,6 +1,6 @@
 # 🙏 Introduction
 
-A collection of notes on CottonScience from Raj#0285 and daynemay#1238.
+A collection of notes on CottonScience from **@raj\_npp** and **daynemay#1238**.
 
 Youtube: [https://www.youtube.com/@c0tt0nc4ndyTA](https://www.youtube.com/@c0tt0nc4ndyTA)
 
