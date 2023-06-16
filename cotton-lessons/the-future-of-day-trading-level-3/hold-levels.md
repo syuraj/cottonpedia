@@ -16,15 +16,17 @@ Hold level is always nearby (or right before) a break-level.
 
 ### Body or wick
 
-Hold can be **body or wick** of a candle
+Hold can be **body or wick** of a candle.
 
-It is lower body or wick of a accumulation candle at the top side
+It is lower body or wick of a accumulation candle at the top side.
 
-It is upper body or wick of a distribution candle at the bottom side
+It is upper body or wick of a distribution candle at the bottom side.
+
+Body is a greedier entry and you may miss the trade when price only touches wick not body.
 
 ### Testing a Hold Level
 
-Hold level is considered tested if price comes back to touch it and reverse. (pic below)
+Hold level is considered tested if price comes back to touch it and reverses. (pic below)
 
 Testing wick is same as testing body
 
@@ -61,6 +63,10 @@ if price rejects HTF hold, then LTF hold won't be able to hold&#x20;
 ## Each hold level should've a corresponding break level.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+## Youtube Short
+
+{% embed url="https://www.youtube.com/shorts/HborVKi-XEw" %}
 
 ## Youtube
 
