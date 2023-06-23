@@ -50,7 +50,7 @@ When you have an external move in play, spikes on the internal is what you are l
 
 BS bounce was supposed to break, but couldn't. It implies trend is stronger than the BS and hence BS is not able to hold.
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
