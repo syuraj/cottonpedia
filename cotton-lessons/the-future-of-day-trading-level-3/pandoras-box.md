@@ -10,7 +10,7 @@ They represent ladder points and ranges.
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-In above diagram, Price is just inversing on each side and forming hold trains.
+In above diagram, Price is just inversing on each side and forming hold trails.
 
 When one side breaks if can break out because all the levels on that side are tested.
 
