@@ -8,7 +8,7 @@ Pandora's box has moves inside moves.
 
 They represent ladder points and ranges.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Pandora's box</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 In above diagram, Price is just inversing on each side and forming hold trains.
 
