@@ -14,7 +14,7 @@ Like a puzzle, ends up creating a picture.
 
 ### Exterior & Interior trend
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Exterior &#x26; Interior trend</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Exterior &#x26; Interior trend</p></figcaption></figure>
 
 
 

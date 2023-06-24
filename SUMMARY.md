@@ -61,6 +61,8 @@
   * [8⃣ Lesson 8](cotton-lessons/mentorship-files/lesson-8.md)
   * [🔟 Lesson 10](cotton-lessons/mentorship-files/lesson-10.md)
   * [🧑🏫 Lesson 13](cotton-lessons/mentorship-files/lesson-13.md)
+* [✳ Additional Concepts](cotton-lessons/additional-concepts/README.md)
+  * [‼ Mirroring](cotton-lessons/additional-concepts/mirroring.md)
 
 ## 📖 Notes
 

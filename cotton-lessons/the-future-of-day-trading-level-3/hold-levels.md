@@ -48,7 +48,7 @@ BS is broken first
 
 Hold level will protect from breaking a trend but not forever.
 
-<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## HTF Hold Level vs LTF Hold Level
 
