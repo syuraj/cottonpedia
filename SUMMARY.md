@@ -63,6 +63,7 @@
   * [🧑🏫 Lesson 13](cotton-lessons/mentorship-files/lesson-13.md)
 * [✳ Additional Concepts](cotton-lessons/additional-concepts/README.md)
   * [‼ Mirroring](cotton-lessons/additional-concepts/mirroring.md)
+  * [+1/-1 theory](cotton-lessons/additional-concepts/+1-1-theory.md)
 
 ## 📖 Notes
 

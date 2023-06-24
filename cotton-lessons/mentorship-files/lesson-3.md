@@ -56,7 +56,7 @@ BS bounce was supposed to break, but couldn't. It implies trend is stronger than
 
 ### Rocket Launch
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
