@@ -2,7 +2,7 @@
 
 If 1H is hit at bottom, 4H i.e. (1H +1 timeframe) level rejection at top is required to break 1H below.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 15M +1 => 1H
 

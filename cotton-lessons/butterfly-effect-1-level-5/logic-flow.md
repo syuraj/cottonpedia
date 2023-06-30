@@ -10,7 +10,7 @@ description: Every chart has a story
 
 ## Not unencumbered (free) Hold Level
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Find untested ranges & find the perfect untested greedy levels within the range
 

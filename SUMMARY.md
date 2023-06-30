@@ -64,6 +64,7 @@
 * [✳ Additional Concepts](cotton-lessons/additional-concepts/README.md)
   * [‼ Mirroring](cotton-lessons/additional-concepts/mirroring.md)
   * [1⃣ +1/-1 theory](cotton-lessons/additional-concepts/+1-1-theory.md)
+  * [🧑💻 Dayne's method of Identifying Levels](cotton-lessons/additional-concepts/daynes-method-of-identifying-levels.md)
 
 ## 📖 Notes
 

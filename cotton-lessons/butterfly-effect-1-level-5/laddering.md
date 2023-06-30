@@ -14,7 +14,7 @@ Ladder gives max range of a move.
 
 ### Hold levels get broken when trend is broken
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 
