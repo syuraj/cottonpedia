@@ -6,7 +6,7 @@ description: Multiple timeframe levels get hit at a same time
 
 Multiple timeframe (4H and 1H) got tested in the screenshot below.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Lower timeframe (1H above) should be forward in time.
 

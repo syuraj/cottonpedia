@@ -2,7 +2,7 @@
 
 Floating level is a hold level formed in the middle before price goes to the another range.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Range trend is an Interior trend.
 
@@ -10,11 +10,19 @@ It is drawn from the wick of a floating hold level to the test of that hold leve
 
 When range trend is broken, price goes down to the another range.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Another example of Range trend
+Another example of a Range trend
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+Formation of a floating level
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### Short Entry on a floating level and a range trend
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

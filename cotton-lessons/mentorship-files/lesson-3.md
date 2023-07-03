@@ -8,7 +8,7 @@ BS test will have strong reaction which indicates there may not be another chanc
 
 FS test will have weaker reaction and could result in laddering
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>BS n FS of a range</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>BS n FS of a range</p></figcaption></figure>
 
 ### Stronger level will go for a Stronger target
 
