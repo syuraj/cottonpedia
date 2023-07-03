@@ -6,7 +6,7 @@ If price ladders down in a reverse level, eventually it will dump.
 
 If price ladders up in a reverse level, eventually it will break out.
 
-<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ### Youtube
 

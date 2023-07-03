@@ -32,7 +32,7 @@ Testing wick is same as testing body
 
 If the candle wicks through it, then it might be link a [reverse level](../butterfly-effect-1/reverse-levels.md).
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Hold level testing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Hold level testing</p></figcaption></figure>
 
 Tested levels are generally deleted to remove clutter.
 
