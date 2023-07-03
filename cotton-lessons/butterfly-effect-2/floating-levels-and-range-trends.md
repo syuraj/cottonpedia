@@ -10,7 +10,11 @@ Formation of a floating level.
 
 It has to be untested before the range is broken below/up.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
+
+Scenario where floating level is Not formed.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Range Trend
 
