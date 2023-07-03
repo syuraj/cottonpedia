@@ -50,6 +50,7 @@
   * [↕ Reverse Levels](cotton-lessons/butterfly-effect-1/reverse-levels.md)
 * [🦋 Butterfly Effect 2 (Level 6)](cotton-lessons/butterfly-effect-2/README.md)
   * [3⃣ Three Lanes Of Trading](cotton-lessons/butterfly-effect-2/three-lanes-of-trading.md)
+  * [🎂 Combination Levels](cotton-lessons/butterfly-effect-2/combination-levels.md)
   * [⬇ Rejection as a Target](cotton-lessons/butterfly-effect-2/rejection-as-a-target.md)
   * [📉 Trend Allowance](cotton-lessons/butterfly-effect-2/trend-allowance.md)
 * [🧑🏫 Mentorship Files](cotton-lessons/mentorship-files/README.md)
