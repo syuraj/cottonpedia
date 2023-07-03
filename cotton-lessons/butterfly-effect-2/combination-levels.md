@@ -10,6 +10,8 @@ Multiple timeframe (4H and 1H) got tested in the screenshot below.
 
 Lower timeframe (1H above) should be forward in time.
 
+Combination levels concept is useful in finding greedier entry in lower timeframes.
+
 
 
 ## Youtube

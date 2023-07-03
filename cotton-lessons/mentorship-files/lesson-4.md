@@ -4,7 +4,7 @@
 
 Piece of chart that holds price in a range
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Ranges</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption><p>Ranges</p></figcaption></figure>
 
 When a range breaks, it goes to another range.
 

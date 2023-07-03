@@ -14,7 +14,7 @@ FS test will have weaker reaction and could result in laddering
 
 Similarly if greedier level gets attacked, it will target greedier target (e.g. trend in the pic below)
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Strong vs Weak target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>Strong vs Weak target</p></figcaption></figure>
 
 Trend strength depends on which part of the range it hits
 
