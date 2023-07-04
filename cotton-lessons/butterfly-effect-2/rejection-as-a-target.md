@@ -4,6 +4,10 @@ Critical spots to long and short and the best price to buy are two of the most i
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+Taking a long or short from the 4h level in lower timeframe.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ## Youtube
 
 {% embed url="https://www.youtube.com/watch?v=PGDjdfzzJH4&list=PLBcrRkQDkijitJFh2WZigIdV_FHoZpyAE&index=7&ab_channel=C0TT0NC4NDYTA" %}
